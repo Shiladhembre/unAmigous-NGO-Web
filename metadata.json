@@ -1,0 +1,6 @@
+{
+  "name": "InAmigos Foundation",
+  "description": "A visually stunning, fully responsive and interactive NGO awareness and support platform for InAmigos Foundation, inspiring social impact through education, environmental care, stray animal welfare, women empowerment, and internships.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
